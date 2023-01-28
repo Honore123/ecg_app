@@ -1,0 +1,12 @@
+export const REQUEST_LOGIN = "REQUEST_LOGIN";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAILURE = "LOGIN_FAILURE";
+
+export const REQUEST_LOGOUT = "REQUEST_LOGOUT";
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS";
+export const LOGOUT_FAILURE = "LOGOUT_FAILURE";
+
+export const ADD_DATA = "ADD_DATA";
+export const REQUEST_DATA = "REQUEST_DATA";
+export const DATA_SUCCESS = "DATA_SUCCESS";
+export const DATA_FAILURE = "LOGOUT_FAILURE";
